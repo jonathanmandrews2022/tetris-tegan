@@ -1,0 +1,8 @@
+{
+  "name": "Tetris with Uno Cards",
+  "description": "A classic Tetris-style game enriched with strategic Uno action cards. Play Solo, in local 1v1 split screen, or go head-to-head in Solo vs AI Challenger mode, where clearing rows draws powerful cards (Bomb, Shuffle, Slow Down, Colour Switch, Clear Row) to sabotage or clear paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
